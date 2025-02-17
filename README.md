@@ -7,7 +7,7 @@ Links showcasing motor and user interface:
 https://www.youtube.com/shorts/mMLEhQjoE-8
 ->showcases BLDC motor running
 
-https://www.youtube.com/shorts/s2swczmCOt8
+https://www.youtube.com/shorts/LevXgt3uf6o
 ->showcases user interface, disclaimer, we made a mistake when laser cutting holes into the accrylic we had mistalenly removed the film prior to cutting which caused charring of the accrylic.
 
 https://youtube.com/shorts/PA8FwicsqYo
